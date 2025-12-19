@@ -35,7 +35,8 @@ Pour obtenir un certificat, il faut suivre les étapes suivantes :
    identifiants Janus.
 
 4. Sélectionner un certificat IGTF en cliquant sur "IGTF Client Auth" dans
-   le menu de gauche puis cliquez sur "Next".
+   le menu de gauche puis cliquez sur "Next". Trois types de certificat vous
+   sont proposés. Il faut sélectionnner "GÉANT Personal Authentication".
 
 5. Cocher la case d'acceptation des conditions d'utilisation, après les
    avoir lues et cliquez sur "Submit Request".
