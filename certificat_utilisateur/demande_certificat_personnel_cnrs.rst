@@ -75,4 +75,4 @@ utilisé avec les outils de grille de calcul [5]_.
 
 .. [4] Chargement d'un certificat dans le navigateur : https://services.renater.fr/tcs/faq/tcs_personnes/export_import#importer_une_sauvegarde_de_certificat_dans_mon_navigateur
 
-.. [5] Conversion d'un certificat : https://doc.cc.in2p3.fr/fr/Daily-usage/faq/faq-general-help.html#convertir-un-certificat
+.. [5] Conversion d'un certificat : https://doc.cc.in2p3.fr/fr/Daily-usage/certificate.html#certificate
