@@ -44,7 +44,7 @@ Pour obtenir un certificat, il faut suivre les étapes suivantes :
 
 4. Dans le menu de gauche, sélectionner "IGTF Client Auth" .
    Trois types de certificats vous sont proposés. Choisir :
-    "GÉANT Personal Authentication", puis cliquer sur "Next".
+   "GÉANT Personal Authentication", puis cliquer sur "Next".
 
 5. Lire et accepter les conditions d'utilisation, puis cliquer sur
    "Submit Request".
@@ -130,6 +130,6 @@ Le certificat téléchargé est au format PKCS12. Il peut :
 
 .. [4] Support RENATER : https://services.renater.fr/tcs/contact-support
 
-.. [4] Chargement d'un certificat dans le navigateur : https://services.renater.fr/tcs/faq/tcs_personnes/export_import#importer_une_sauvegarde_de_certificat_dans_mon_navigateur
+.. [5] Chargement d'un certificat dans le navigateur : https://services.renater.fr/tcs/faq/tcs_personnes/export_import#importer_une_sauvegarde_de_certificat_dans_mon_navigateur
 
-.. [5] Conversion d'un certificat : https://doc.cc.in2p3.fr/fr/Daily-usage/certificate.html#certificate
+.. [6] Conversion d'un certificat : https://doc.cc.in2p3.fr/fr/Daily-usage/certificate.html#certificate
